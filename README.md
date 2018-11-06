@@ -9,8 +9,8 @@
     4. 当运行结果出现灰度图后，最好选择复制图像，不要选择保存图片，不然分辨率会下降。
     5. data_1_a.m、data_1_b.m、data_processing_1.m一起使用，就可以得到空载、有实物以及两者相减图。
     6. data_2_a.m、data_2_b.m、data_processing_2.m一起使用，与第5点不同的是此代码包含设置图像大小。
-    7. 如果想要matlab保存的图片没有留白部分，可以参考以下博客：
-   [matlab图像除去四边留白部分](https://blog.csdn.net/weixin_40283816/article/details/83662638)
+ps：如果想要matlab保存的图片没有留白部分，可以参考以下博客：
+[matlab图像除去四边留白部分](https://blog.csdn.net/weixin_40283816/article/details/83662638)
 
 ## 运行环境
 matlab、Dev-C++
