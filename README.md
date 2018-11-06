@@ -6,4 +6,7 @@
 
    ![eg:](https://github.com/whitesunflower/DataProcessing/raw/a992e7d0edc6bd2d9dc46582f91b5f17e2d9e369/%E5%AE%9E%E4%BE%8B.PNG  )
 
-    4.当运行结果出现灰度图后，最好选择复制图像，不要选择保存图片，分辨率会下降。
+    4.当运行结果出现灰度图后，最好选择复制图像，不要选择保存图片，不然分辨率会下降。
+## 运行环境
+matlab、Dev-C++
+
